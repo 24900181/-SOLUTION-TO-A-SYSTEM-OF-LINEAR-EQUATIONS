@@ -15,6 +15,10 @@ Using the np.linalg.solve(), we can find the solutions.
 End the program
 ## Program:
 ~~~
+#Developed by: NETHRA.K
+#Register Number: 212224230184
+
+
 import numpy as np
 A = np.array([[1,-3],[3,1]])
 B = np.array([0,10])
